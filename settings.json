@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+      "*.vhd": "vhdl"
+    },
+    "ghdlLS.trace.server": "verbose",
+    "ghdlLS.trace.transport": "verbose"
+  }
