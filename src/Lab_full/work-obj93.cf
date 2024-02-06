@@ -1,0 +1,4 @@
+v 4
+file . "Full_Adder.vhdl" "e9864582579fd7631b81d9ddad272b7ceac36b67" "20240206171043.595":
+  entity full_adder at 2( 53) + 0 on 11;
+  architecture behavioral of full_adder at 14( 306) + 0 on 12;
