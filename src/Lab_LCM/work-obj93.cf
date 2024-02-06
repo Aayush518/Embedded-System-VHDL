@@ -1,0 +1,4 @@
+v 4
+file . "LCM.vhdl" "0b2ec02e7e67123a0946076d7c7423cd351803e2" "20240206184333.061":
+  entity lcm at 3( 86) + 0 on 11;
+  architecture behavioral of lcm at 15( 352) + 0 on 12;
