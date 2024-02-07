@@ -1,4 +1,7 @@
 v 4
-file . "GCD.vhdl" "c61f2ac01af56c459a57d63ca44486239994c365" "20240206182013.603":
-  entity gcd at 3( 86) + 0 on 11;
-  architecture behavioral of gcd at 15( 357) + 0 on 12;
+file . "tb_gcd.vhdl" "9342364867a0f62817b8b70f6245355b5907996a" "20240207194308.216":
+  entity tb_gcd at 1( 0) + 0 on 13;
+  architecture behavioral of tb_gcd at 7( 74) + 0 on 14;
+file . "GCD.vhdl" "0f3ac4ffa140c5e36977052e9c7df40328ad2976" "20240207194258.841":
+  entity gcd at 1( 0) + 0 on 11;
+  architecture behavioral of gcd at 14( 319) + 0 on 12;
