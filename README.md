@@ -1,6 +1,6 @@
 # Embedded System VHDL Assignment
 
-This repository contains VHDL code and test cases for  embedded system assignment. The code is written using GHDL and the waveforms is visualized using GTKWave. The development environment used is Visual Studio Code (VSCode).
+This repository contains VHDL code and test cases for  embedded system assignment. The code is compiled using GHDL and the waveforms is visualized using GTKWave. The development environment used is Visual Studio Code (VSCode).
 
 ## Table of Contents
 
