@@ -1,4 +1,7 @@
 v 4
-file . "LCM.vhdl" "0b2ec02e7e67123a0946076d7c7423cd351803e2" "20240206184333.061":
-  entity lcm at 3( 86) + 0 on 11;
-  architecture behavioral of lcm at 15( 352) + 0 on 12;
+file . "tb_lcm.vhdl" "7a7e0d7a110721e5d8005cd0f62c497ac7e53e5d" "20240207193250.880":
+  entity lcm_tb at 1( 0) + 0 on 13;
+  architecture behavioral of lcm_tb at 8( 100) + 0 on 14;
+file . "lcm.vhdl" "b300966ab3e7621565b0d8cf9fd6f39b1a3d8bfc" "20240207193250.879":
+  entity lcm at 1( 0) + 0 on 11;
+  architecture behavioral of lcm at 13( 261) + 0 on 12;
