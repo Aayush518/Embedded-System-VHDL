@@ -1,0 +1,4 @@
+v 4
+file . "T_flipflop.vhdl" "f675cddff75070a67c57bf20b94a5bc5500f0d06" "20240208183529.094":
+  entity t_flipflop at 1( 0) + 0 on 11;
+  architecture behavioral of t_flipflop at 13( 292) + 0 on 12;
