@@ -1,0 +1,19 @@
+$date
+  Fri Feb 09 01:38:37 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # sel $end
+$var reg 1 $ y $end
+$enddefinitions $end
+#0
+U!
+U"
+U#
+U$
