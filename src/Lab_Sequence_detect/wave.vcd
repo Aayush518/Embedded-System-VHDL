@@ -1,0 +1,23 @@
+$date
+  Thu Feb 08 17:21:41 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! clk $end
+$var reg 1 " reset $end
+$var reg 1 # input_bit $end
+$var reg 1 $ output_detected $end
+$comment current_state is not handled $end
+$comment next_state is not handled $end
+$var reg 1 % prev_input $end
+$enddefinitions $end
+#0
+U!
+U"
+U#
+0$
+U%
