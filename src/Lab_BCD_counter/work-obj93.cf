@@ -1,4 +1,7 @@
 v 4
-file . "BCD_Counter.vhdl" "ffa5a6aa0186878e08b237f8d5090c880a1b4bfa" "20240208111749.676":
+file . "tb_bcd_counter.vhdl" "39682e3b443c05c6c5fc1c1f8590011e525a28c5" "20240208184140.407":
+  entity tb_bcd_counter at 1( 0) + 0 on 13;
+  architecture tb of tb_bcd_counter at 8( 116) + 0 on 14;
+file . "BCD_Counter.vhdl" "0349655684bf0116ecd1a7e99b18aa7943ab700f" "20240208184136.831":
   entity bcd_counter at 1( 0) + 0 on 11;
-  architecture behavioral of bcd_counter at 12( 294) + 0 on 12;
+  architecture behavioral of bcd_counter at 12( 283) + 0 on 12;
