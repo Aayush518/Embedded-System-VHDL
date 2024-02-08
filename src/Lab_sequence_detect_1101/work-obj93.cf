@@ -1,4 +1,7 @@
 v 4
-file . "Sequence_1101.vhdl" "725b7d56bfa0c60ff49962d42b12231bdb216d12" "20240208185031.837":
+file . "tb_sequence_1101.vhdl" "3d524e36c5108541646fcfe9df6aa3b79308405b" "20240208195409.204":
+  entity tb_sequence_1101 at 1( 0) + 0 on 13;
+  architecture tb of tb_sequence_1101 at 7( 94) + 0 on 14;
+file . "Sequence_1101.vhdl" "6da84fa802b6e296facb9ed6d5c7c34031099f38" "20240208195402.515":
   entity sequence_detect at 1( 0) + 0 on 11;
-  architecture behavioral of sequence_detect at 9( 196) + 0 on 12;
+  architecture behavioral of sequence_detect at 9( 188) + 0 on 12;
