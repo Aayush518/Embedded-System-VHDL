@@ -1,4 +1,7 @@
 v 4
-file . "Multiplexer.vhdl" "ce22783e6988c8bd41cf751d0f36ad748308dc9d" "20240208195304.554":
+file . "tb_mux.vhdl" "80a4703b0b414a52dd7bc2d530d906074258e97d" "20240208200505.737":
+  entity tb_mux at 1( 0) + 0 on 13;
+  architecture tb of tb_mux at 7( 74) + 0 on 14;
+file . "Multiplexer.vhdl" "adc473c244e837bf8164a5e71df85b55117f3795" "20240208200501.056":
   entity mux2to1 at 1( 0) + 0 on 11;
-  architecture behavioral of mux2to1 at 12( 185) + 0 on 12;
+  architecture behavioral of mux2to1 at 12( 174) + 0 on 12;
