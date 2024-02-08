@@ -1,0 +1,4 @@
+v 4
+file . "decoder.vhdl" "42f3e74fb9c68261575a0a0ff454c615e9090624" "20240208193900.438":
+  entity decoder_n_to_2n at 1( 0) + 0 on 11;
+  architecture behavioral of decoder_n_to_2n at 15( 347) + 0 on 12;
