@@ -1,0 +1,4 @@
+v 4
+file . "d_flip_flop.vhdl" "64f821f527336909d38c8d73468ac997ab1e541f" "20240208182503.630":
+  entity d_flipflop at 1( 0) + 0 on 11;
+  architecture behavioral of d_flipflop at 14( 341) + 0 on 12;
