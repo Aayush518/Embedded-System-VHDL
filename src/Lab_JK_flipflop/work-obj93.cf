@@ -1,4 +1,7 @@
 v 4
-file . "JK_flipflop.vhdl" "7634a9489606facdc35e6e4eb0713e13d18b3041" "20240208200257.283":
+file . "tb_jk_flipflop.vhdl" "5a84a8718cd19eec68432cfdfd7edf60188e4549" "20240208200813.909":
+  entity tb_jk_flipflop at 1( 0) + 0 on 13;
+  architecture tb of tb_jk_flipflop at 7( 90) + 0 on 14;
+file . "JK_flipflop.vhdl" "8b2d4c2ee3f47f7ef2de1a1294e88f87ade3ef2d" "20240208200809.588":
   entity jk_flipflop at 1( 0) + 0 on 11;
-  architecture behavioral of jk_flipflop at 14( 264) + 0 on 12;
+  architecture behavioral of jk_flipflop at 14( 251) + 0 on 12;
