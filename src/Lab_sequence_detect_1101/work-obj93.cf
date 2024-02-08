@@ -1,0 +1,4 @@
+v 4
+file . "Sequence_1101.vhdl" "725b7d56bfa0c60ff49962d42b12231bdb216d12" "20240208185031.837":
+  entity sequence_detect at 1( 0) + 0 on 11;
+  architecture behavioral of sequence_detect at 9( 196) + 0 on 12;
