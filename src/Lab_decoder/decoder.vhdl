@@ -1,24 +1,26 @@
-library ieee;
-use ieee.std_logic_1164.all;
-use ieee.numeric_std.all;
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
 
-entity decoder_n_to_2n is
-    generic (
-        N : integer := 2    -- Number of input lines (default is 2)
-    );
-    port (
-        input : in std_logic_vector(N-1 downto 0);
-        output : out std_logic_vector(2**N - 1 downto 0)
-    );
-end decoder_n_to_2n;
+entity decoder is
+    Port ( input : in  STD_LOGIC_VECTOR (1 downto 0);
+           output : out  STD_LOGIC_VECTOR (3 downto 0));
+end decoder;
 
-architecture behavioral of decoder_n_to_2n is
+architecture Behavioral of decoder is
 begin
     process(input)
-        variable decoded_index : integer range 0 to 2**N - 1;
     begin
-        decoded_index := to_integer(unsigned(input));
-        output <= (others => '0');
-        output(decoded_index) <= '1';
+        case input is
+            when "00" =>
+                output <= "0001";
+            when "01" =>
+                output <= "0010";
+            when "10" =>
+                output <= "0100";
+            when "11" =>
+                output <= "1000";
+            when others =>
+                output <= (others => '0');
+        end case;
     end process;
-end behavioral;
+end Behavioral;
