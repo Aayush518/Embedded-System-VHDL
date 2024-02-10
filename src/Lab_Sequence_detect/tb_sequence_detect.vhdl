@@ -60,6 +60,16 @@ begin
         input_bit_tb <= '1';
         wait for 10 ns;
 
+        --Input sequence: 1011
+        input_bit_tb <= '1';
+        wait for 10 ns;
+        input_bit_tb <= '0';
+        wait for 10 ns;
+        input_bit_tb <= '1';
+        wait for 10 ns;
+        input_bit_tb <= '1';
+        wait for 10 ns;
+
         wait;
     end process stim_proc;
 
