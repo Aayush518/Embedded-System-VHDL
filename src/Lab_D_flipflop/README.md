@@ -1,4 +1,4 @@
-## Write a VHDL code for a JK  flipflop.(2079 back)
+## Write a VHDL code for a D  flipflop.(2079 back)
  
  # D Flip-Flop
 
