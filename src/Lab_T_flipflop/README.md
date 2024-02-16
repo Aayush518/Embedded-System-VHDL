@@ -38,4 +38,4 @@ The testbench includes test cases to verify the behavior of the T flip-flop unde
 
 Each test case is simulated for a duration sufficient to allow the flip-flop to react and for the outputs to be observed.
 
-![SIMULATION RESULTS](src/Lab_T_flipflop/Screenshot 2024-02-10 at 18.58.30.png)
+![Simulation Results](https://github.com/Aayush518/Embedded-System-VHDL/blob/main/src/Lab_T_flipflop/Screenshot%202024-02-10%20at%2018.58.30.png "Simulation Results")

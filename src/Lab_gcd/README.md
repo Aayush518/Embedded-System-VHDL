@@ -41,4 +41,4 @@ The testbench includes various test cases to verify the behavior of the GCD calc
 
 Each test case is simulated for a duration to allow sufficient time for the computation to finish and the result to stabilize.
 
-![SIMULATION RESULTS](src/Lab_gcd/Screenshot 2024-02-10 at 18.59.32.png)
+![Simulation Results](https://github.com/Aayush518/Embedded-System-VHDL/blob/main/src/Lab_gcd/Screenshot%202024-02-10%20at%2018.59.32.png "Simulation Results")

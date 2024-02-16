@@ -41,4 +41,4 @@ The testbench includes various test cases to verify the behavior of the LCM modu
 
 Each test case is simulated for a duration sufficient to allow the LCM computation to complete and the result to be observed.
 
-![SIMULATION RESULTS](src/Lab_LCM/Screenshot 2024-02-10 at 15.12.06.png)
+![Simulation Results](https://github.com/Aayush518/Embedded-System-VHDL/blob/main/src/Lab_LCM/Screenshot%202024-02-10%20at%2015.12.06.png "Simulation Results")

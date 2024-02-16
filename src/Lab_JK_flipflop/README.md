@@ -42,4 +42,4 @@ The testbench includes various test cases to verify the behavior of the JK flip-
 
 Each test case is simulated for a duration to allow sufficient time for the flip-flop to stabilize and the output to be observed.
 
-![SIMULATION RESULTS](src/Lab_JK_flipflop/Screenshot 2024-02-16 at 16.01.45.png)
+![Simulation Results](https://github.com/Aayush518/Embedded-System-VHDL/blob/main/src/Lab_JK_flipflop/Screenshot%202024-02-16%20at%2016.01.45.png "Simulation Results")

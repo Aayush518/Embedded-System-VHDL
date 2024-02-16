@@ -44,4 +44,5 @@ The testbench observes the output of the decoder and verifies that it matches th
 
 The simulation duration is set to allow for sufficient observation of the decoder behavior.
 
-![SIMULATION RESULTS](src/Lab_decoder/Screenshot 2024-02-10 at 18.45.35.png)
+![Simulation Results](https://github.com/Aayush518/Embedded-System-VHDL/blob/main/src/Lab_decoder/Screenshot%202024-02-10%20at%2018.45.35.png "Simulation Results")
+

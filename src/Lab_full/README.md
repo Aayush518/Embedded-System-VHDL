@@ -49,4 +49,4 @@ The testbench observes the `S` (sum) and `COUT` (carry-out) signals of the full 
 
 Each test case is simulated for a duration to allow sufficient observation of the full adder behavior.
 
-![SIMULATION RESULTS](src/Lab_full/Screenshot 2024-02-10 at 15.19.54.png)
+![Simulation Results](https://github.com/Aayush518/Embedded-System-VHDL/blob/main/src/Lab_full/Screenshot%202024-02-10%20at%2015.19.54.png "Simulation Results")

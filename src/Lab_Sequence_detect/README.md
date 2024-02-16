@@ -35,4 +35,4 @@
 ![Diagram_state_machine_0]( fsm_sequence_detect_00.svg "Diagram")
 
 
-![SIMULATION RESULTS](src/Lab_Sequence_detect/Screenshot 2024-02-10 at 16.38.31.png)
+![Simulation Results](https://github.com/Aayush518/Embedded-System-VHDL/blob/main/src/Lab_Sequence_detect/Screenshot%202024-02-10%20at%2016.38.31.png "Simulation Results")
