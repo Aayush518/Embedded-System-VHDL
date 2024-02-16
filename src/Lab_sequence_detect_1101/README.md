@@ -34,3 +34,5 @@
 ## State machines
 
 ![Diagram_state_machine_0]( fsm_sequence_detect_00.svg "Diagram")
+
+![SIMULATION RESULTS](src/Lab_sequence_detect_1101/Screenshot 2024-02-10 at 18.49.19.png)
