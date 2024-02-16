@@ -1,3 +1,5 @@
+## Write code for a custom processor that calculates Least Common Multiple (LCM) of two numbers as a finite state machine.(2074,2072 regular)
+
 # LCM (Least Common Multiple)
 
 This repository contains VHDL code for computing the Least Common Multiple (LCM) of two input integers (`LCM`) and its corresponding testbench (`LCM_TB`).

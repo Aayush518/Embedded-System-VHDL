@@ -1,3 +1,4 @@
+## Draw the state diagram for a sequence detector for the sequence 1011 and then develop vhdl code.(2078 regular)
 
 # Entity: sequence_detect 
 - **File**: sequence_detect.vhdl

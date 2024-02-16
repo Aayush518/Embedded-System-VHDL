@@ -1,3 +1,5 @@
+## Design and write a code for Decoder using VHDL.(2076 back)
+
 # Decoder
 
 This repository contains VHDL code for a 2-to-4 decoder (`decoder`) and its testbench (`decoder_tb`). 

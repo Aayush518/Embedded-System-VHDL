@@ -1,3 +1,4 @@
+## WRITE THE CODE FOR BCD COUNTER TO DISPLAY 0 TO 9999 IN SEVEN SEGMENT USING VHDL.(2070 regular)
 # BCD Counter
 
 This repository contains VHDL code for a Binary Coded Decimal (BCD) counter (`BCD_Counter`) and its testbench (`tb_bcd_counter`). The BCD counter counts from 0 to 9999 and outputs the BCD representation of the count on a 7-segment display.

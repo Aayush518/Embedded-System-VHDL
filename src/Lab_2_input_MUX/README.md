@@ -1,3 +1,5 @@
+## Write VHDL code for 2-input multiplexer.(2072 back)
+
 # 2-to-1 Multiplexer
 
 This repository contains VHDL code for a 2-to-1 multiplexer (`mux2to1`) and its testbench (`tb_mux`). The multiplexer selects between two input signals (`a` and `b`) based on the value of the select signal (`sel`) and outputs the selected signal (`y`).

@@ -1,3 +1,4 @@
+## Write the Vhdl code to design a traffic light controller unit with necessary assumption using state machine.(2079 regular)
 # Traffic Light Controller
 
 This repository contains VHDL code for a traffic light controller (`traffic_light_controller`) and its corresponding testbench (`tb_traffic_light_controller`).
