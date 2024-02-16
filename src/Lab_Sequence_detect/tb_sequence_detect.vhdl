@@ -70,6 +70,15 @@ begin
         input_bit_tb <= '1';
         wait for 10 ns;
 
+        --Input sequence: 1001
+        input_bit_tb <= '1';
+        wait for 10 ns;
+        input_bit_tb <= '0';
+        wait for 10 ns;
+        input_bit_tb <= '0';
+        wait for 10 ns;
+        input_bit_tb <= '1';
+
         wait;
     end process stim_proc;
 
